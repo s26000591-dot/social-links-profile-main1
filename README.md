@@ -41,7 +41,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: (https://github.com/s26000591-dot/social-links-profile-main1)
 - Live Site URL: (https://s26000591-dot.github.io/social-links-profile-main1/)
 
 ## My process
